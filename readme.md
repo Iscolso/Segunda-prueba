@@ -25,3 +25,10 @@ git log -1
 
 **NOTA** para salir es con la letra **q**
 
+### para crear una nueva rama
+
+```sh
+git branch nombre de la rama
+```
+
+
